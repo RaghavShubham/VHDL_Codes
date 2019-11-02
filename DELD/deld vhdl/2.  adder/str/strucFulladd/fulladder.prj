@@ -1,0 +1,3 @@
+vhdl work "orgate.vhd"
+vhdl work "half_adder.vhd"
+vhdl work "fulladder.vhd"

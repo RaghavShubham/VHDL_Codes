@@ -1,0 +1,6 @@
+EN wav NULL "D:/deld vhdl/8.  MUX/Asynccounter/wav.vhw" sub00/vhpl04 1571205935
+EN async NULL "D:/deld vhdl/8.  MUX/Asynccounter/asccode.vhd" sub00/vhpl02 1571205933
+EN jkff NULL "D:/deld vhdl/8.  MUX/Asynccounter/asccode.vhd" sub00/vhpl00 1571205931
+AR async str "D:/deld vhdl/8.  MUX/Asynccounter/asccode.vhd" sub00/vhpl03 1571205934
+AR jkff behavioral "D:/deld vhdl/8.  MUX/Asynccounter/asccode.vhd" sub00/vhpl01 1571205932
+AR wav testbench_arch "D:/deld vhdl/8.  MUX/Asynccounter/wav.vhw" sub00/vhpl05 1571205936

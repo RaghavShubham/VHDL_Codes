@@ -1,0 +1,9 @@
+AR fsub structural "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" sub00/vhpl08 1571121983
+EN or_1 NULL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" sub00/vhpl06 1571121980
+EN fsub NULL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" sub00/vhpl00 1571121982
+AR h2 dataflow "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" sub00/vhpl05 1571121979
+AR h1 dataflow "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" sub00/vhpl03 1571121977
+AR fsub behavioral "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/FSUB.vhd" sub00/vhpl01 1571117448
+EN h1 NULL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" sub00/vhpl02 1571121976
+EN h2 NULL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" sub00/vhpl04 1571121978
+AR or_1 dataflow "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" sub00/vhpl07 1571121981

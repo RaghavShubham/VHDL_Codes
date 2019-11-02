@@ -1,0 +1,19 @@
+V3 10
+FL C:/Users/DELL/Desktop/Akash/stucSyn/dff.vhd 2018/10/12.04:46:07 I.24
+EN work/dff 1539300965             FL C:/Users/DELL/Desktop/Akash/stucSyn/dff.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/dff/Behavioral 1539300966  FL C:/Users/DELL/Desktop/Akash/stucSyn/dff.vhd \
+      EN work/dff 1539300965
+FL C:/Users/DELL/Desktop/Akash/stucSyn/StucSyn.vhd 2018/10/12.06:06:06 I.24
+EN work/StucSyn 1539304970         FL C:/Users/DELL/Desktop/Akash/stucSyn/StucSyn.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/StucSyn/Behavioral 1539304971 FL C:/Users/DELL/Desktop/Akash/stucSyn/StucSyn.vhd \
+      EN work/StucSyn 1539304970 CP jff
+FL C:/Users/DELL/Desktop/Akash/stucSyn/jff.vhd 2018/10/12.06:01:21 I.24
+EN work/jff 1539304584             FL C:/Users/DELL/Desktop/Akash/stucSyn/jff.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/jff/Behavioral 1539304585  FL C:/Users/DELL/Desktop/Akash/stucSyn/jff.vhd \
+      EN work/jff 1539304584

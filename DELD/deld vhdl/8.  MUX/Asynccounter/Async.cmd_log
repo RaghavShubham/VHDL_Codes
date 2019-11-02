@@ -1,0 +1,2 @@
+xst -ise "D:/deld vhdl/8.  MUX/Asynccounter/Asynccounter" -intstyle ise -ifn Async.xst -ofn Async.syr
+xst -ise "D:/deld vhdl/8.  MUX/Asynccounter/Asynccounter" -intstyle ise -ifn Async.xst -ofn Async.syr

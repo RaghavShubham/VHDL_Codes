@@ -1,0 +1,23 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.19 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3215 - Unit work/two is now defined in a different file: was C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/Mux/two.vhd, now is D:/deld vhdl/8.  MUX/two/Mux/two.vhd
+WARNING:HDLParsers:3215 - Unit work/two/Behavioral is now defined in a different file: was C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/Mux/two.vhd, now is D:/deld vhdl/8.  MUX/two/Mux/two.vhd
+Compiling vhdl file "D:/deld vhdl/8.  MUX/two/Mux/two.vhd" in Library work.
+Architecture behavioral of Entity two is up to date.
+CPU : 0.09 / 0.28 s | Elapsed : 1.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 142584 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

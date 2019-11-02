@@ -1,0 +1,28 @@
+ command line:
+   ./wave_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  33856
+
+Mon Oct 07 16:32:21 2019
+
+Total Line Count = 746
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 73.6625 Meg. 
+
+ Total signals 8
+ Total nets 4
+ Total signal drivers 3
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 3
+ntrace select -o on -n /wave/d0 
+ntrace select -o on -n /wave/d1 
+ntrace select -o on -n /wave/s 
+ntrace select -o on -n /wave/y 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

@@ -1,0 +1,10 @@
+AR jff behavioral "G:/adarsh deld/VHDL/stucSyn/jff.vhd" sub00/vhpl07 1539856009
+EN stucsyn NULL "G:/adarsh deld/VHDL/stucSyn/StucSyn.vhd" sub00/vhpl02 1539856010
+EN dff NULL C:/Users/DELL/Desktop/Akash/stucSyn/dff.vhd sub00/vhpl00 1539301107
+AR dff behavioral C:/Users/DELL/Desktop/Akash/stucSyn/dff.vhd sub00/vhpl01 1539301108
+EN wave NULL C:/Users/DELL/Desktop/Akash/stucSyn/wave.vhw sub00/vhpl04 1539304615
+AR wave testbench_arch C:/Users/DELL/Desktop/Akash/stucSyn/wave.vhw sub00/vhpl05 1539304616
+EN wave1 NULL "G:/adarsh deld/VHDL/stucSyn/wave1.vhw" sub00/vhpl08 1539856012
+AR stucsyn behavioral "G:/adarsh deld/VHDL/stucSyn/StucSyn.vhd" sub00/vhpl03 1539856011
+AR wave1 testbench_arch "G:/adarsh deld/VHDL/stucSyn/wave1.vhw" sub00/vhpl09 1539856013
+EN jff NULL "G:/adarsh deld/VHDL/stucSyn/jff.vhd" sub00/vhpl06 1539856008

@@ -1,0 +1,3 @@
+vhdl work "jff.vhd"
+vhdl work "StucSyn.vhd"
+vhdl work "wave1.vhw"

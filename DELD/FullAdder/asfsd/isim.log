@@ -1,0 +1,25 @@
+ command line:
+   ./gjfghjfgh_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  52482
+
+Wed Oct 30 01:07:18 2019
+
+Total Line Count = 760
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 74.7274 Meg. 
+
+ Total signals 18
+ Total nets 11
+ Total signal drivers 11
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 7
+ntrace select -o on -m / -l this 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

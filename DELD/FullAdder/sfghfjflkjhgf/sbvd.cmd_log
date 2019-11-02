@@ -1,0 +1,1 @@
+xst -ise "D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/sfghfjflkjhgf/sfghfjflkjhgf" -intstyle ise -ifn sbvd.xst -ofn sbvd.syr

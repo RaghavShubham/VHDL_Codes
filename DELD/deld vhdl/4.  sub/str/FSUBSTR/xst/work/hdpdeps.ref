@@ -1,0 +1,30 @@
+V3 14
+FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" 2019/10/15.11:55:29 I.24
+EN work/H1 1571121976              FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/H1/dataflow 1571121977 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" \
+      EN work/H1 1571121976
+EN work/H2 1571121978              FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/H2/dataflow 1571121979 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" \
+      EN work/H2 1571121978
+EN work/OR_1 1571121980            FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/OR_1/dataflow 1571121981 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" \
+      EN work/OR_1 1571121980
+EN work/FSUB 1571121982            FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/FSUB/STRUCTURAL 1571121983 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/SC.vhd" \
+      EN work/FSUB 1571121982 CP H1        CP H2             CP OR_1
+FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/FSUB.vhd" 2019/10/15.10:33:36 I.24
+AR work/FSUB/Behavioral -1 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTR/FSUB.vhd" \
+      EN work/FSUB 1571117447

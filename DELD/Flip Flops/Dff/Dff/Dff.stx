@@ -1,0 +1,23 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.09 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3215 - Unit work/Dff is now defined in a different file: was C:/Users/Subham Jena 1/Desktop/NIKHILBHATT/Dff/Dff.vhd, now is C:/Users/Subham Jena 1/Desktop/deld vhdl/5.  D ff/Dff/Dff.vhd
+WARNING:HDLParsers:3215 - Unit work/Dff/Behavioral is now defined in a different file: was C:/Users/Subham Jena 1/Desktop/NIKHILBHATT/Dff/Dff.vhd, now is C:/Users/Subham Jena 1/Desktop/deld vhdl/5.  D ff/Dff/Dff.vhd
+Compiling vhdl file "C:/Users/Subham Jena 1/Desktop/deld vhdl/5.  D ff/Dff/Dff.vhd" in Library work.
+Architecture behavioral of Entity dff is up to date.
+CPU : 0.04 / 0.14 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 142400 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/asqw</arg> is now defined in a different file: was <arg fmt="%s" index="2">D:/DELD/AsyncCounterS/asqw.vhw</arg>, now is <arg fmt="%s" index="3">D:/Downloads/DELD-20191022T082526Z-001/DELD/AsyncCounterS/asqw.vhw</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/asqw/testbench_arch</arg> is now defined in a different file: was <arg fmt="%s" index="2">D:/DELD/AsyncCounterS/asqw.vhw</arg>, now is <arg fmt="%s" index="3">D:/Downloads/DELD-20191022T082526Z-001/DELD/AsyncCounterS/asqw.vhw</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/jff</arg> is now defined in a different file: was <arg fmt="%s" index="2">D:/DELD/AsyncCounterS/ACCode.vhd</arg>, now is <arg fmt="%s" index="3">D:/Downloads/DELD-20191022T082526Z-001/DELD/AsyncCounterS/ACCode.vhd</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/jff/Behavioral</arg> is now defined in a different file: was <arg fmt="%s" index="2">D:/DELD/AsyncCounterS/ACCode.vhd</arg>, now is <arg fmt="%s" index="3">D:/Downloads/DELD-20191022T082526Z-001/DELD/AsyncCounterS/ACCode.vhd</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/strucAsyn</arg> is now defined in a different file: was <arg fmt="%s" index="2">D:/DELD/AsyncCounterS/ACCode.vhd</arg>, now is <arg fmt="%s" index="3">D:/Downloads/DELD-20191022T082526Z-001/DELD/AsyncCounterS/ACCode.vhd</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/strucAsyn/Behavioral</arg> is now defined in a different file: was <arg fmt="%s" index="2">D:/DELD/AsyncCounterS/ACCode.vhd</arg>, now is <arg fmt="%s" index="3">D:/Downloads/DELD-20191022T082526Z-001/DELD/AsyncCounterS/ACCode.vhd</arg>
+</msg>
+
+</messages>

@@ -1,0 +1,5 @@
+xst -ise "D:/deld vhdl/1.  hadder/Adder" -intstyle ise -ifn halfadder.xst -ofn halfadder.syr
+xst -ise "D:/deld vhdl/1.  hadder/Adder" -intstyle ise -ifn halfadder.xst -ofn halfadder.syr
+xst -ise "D:/deld vhdl/1.  hadder/Adder" -intstyle ise -ifn halfadder.xst -ofn halfadder.syr
+xst -ise "D:/deld vhdl/1.  hadder/Adder" -intstyle ise -ifn halfadder.xst -ofn halfadder.syr
+xst -ise "D:/deld vhdl/1.  hadder/Adder" -intstyle ise -ifn halfadder.xst -ofn halfadder.syr

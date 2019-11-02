@@ -1,0 +1,10 @@
+AR fulladder behavioral D:/DELD/FullAdderS/FACode.vhd sub00/vhpl01 1571214860
+EN orgate NULL D:/DELD/FullAdderS/FACode.vhd sub00/vhpl04 1571214857
+EN half_adder NULL D:/DELD/FullAdderS/FACode.vhd sub00/vhpl08 1571214855
+EN facode NULL D:/DELD/FullAdderS/FACode.vhd sub00/vhpl02 1571209712
+EN fulladder NULL D:/DELD/FullAdderS/FACode.vhd sub00/vhpl00 1571214859
+AR hacode behavioral D:/DELD/FullAdderS/FACode.vhd sub00/vhpl07 1571210574
+AR facode behavioral D:/DELD/FullAdderS/FACode.vhd sub00/vhpl03 1571209713
+EN hacode NULL D:/DELD/FullAdderS/FACode.vhd sub00/vhpl06 1571210573
+AR half_adder behavioral D:/DELD/FullAdderS/FACode.vhd sub00/vhpl09 1571214856
+AR orgate behavioral D:/DELD/FullAdderS/FACode.vhd sub00/vhpl05 1571214858

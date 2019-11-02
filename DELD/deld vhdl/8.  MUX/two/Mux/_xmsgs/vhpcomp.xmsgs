@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/wave</arg> is now defined in a different file: was <arg fmt="%s" index="2">C:/Users/DELL/Desktop/TUSHAR/Mux/wave.vhw</arg>, now is <arg fmt="%s" index="3">C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/Mux/wave.vhw</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/wave/testbench_arch</arg> is now defined in a different file: was <arg fmt="%s" index="2">C:/Users/DELL/Desktop/TUSHAR/Mux/wave.vhw</arg>, now is <arg fmt="%s" index="3">C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/Mux/wave.vhw</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/two</arg> is now defined in a different file: was <arg fmt="%s" index="2">C:/Users/DELL/Desktop/TUSHAR/Mux/two.vhd</arg>, now is <arg fmt="%s" index="3">C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/Mux/two.vhd</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/two/Behavioral</arg> is now defined in a different file: was <arg fmt="%s" index="2">C:/Users/DELL/Desktop/TUSHAR/Mux/two.vhd</arg>, now is <arg fmt="%s" index="3">C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/Mux/two.vhd</arg>
+</msg>
+
+</messages>

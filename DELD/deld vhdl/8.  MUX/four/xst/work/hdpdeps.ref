@@ -1,0 +1,6 @@
+V3 3
+FL "D:/deld vhdl/8.  MUX/four/four.vhd" 2018/10/11.06:08:22 I.24
+EN work/four 1571203542            FL "D:/deld vhdl/8.  MUX/four/four.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/four/Behavioral 1571203543 FL "D:/deld vhdl/8.  MUX/four/four.vhd" EN work/four 1571203542

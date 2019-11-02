@@ -1,0 +1,6 @@
+AR jff behavioral D:/DELD/SyncCounterS/SyncCounterCode.vhd sub00/vhpl01 1571211949
+EN stucsyn NULL D:/DELD/SyncCounterS/SyncCounterCode.vhd sub00/vhpl02 1571211950
+EN waveeeeeeee NULL D:/DELD/SyncCounterS/waveeeeeeee.vhw sub00/vhpl04 1571212158
+AR stucsyn behavioral D:/DELD/SyncCounterS/SyncCounterCode.vhd sub00/vhpl03 1571211951
+AR waveeeeeeee testbench_arch D:/DELD/SyncCounterS/waveeeeeeee.vhw sub00/vhpl05 1571212159
+EN jff NULL D:/DELD/SyncCounterS/SyncCounterCode.vhd sub00/vhpl00 1571211948

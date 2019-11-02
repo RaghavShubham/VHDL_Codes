@@ -1,0 +1,1 @@
+xst -ise "D:/DELD/MUX81/MUX81" -intstyle ise -ifn MUX81.xst -ofn MUX81.syr

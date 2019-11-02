@@ -1,0 +1,7 @@
+xst -ise "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/JKFF/JKFF" -intstyle ise -ifn jff.xst -ofn jff.syr
+ngdbuild -ise "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/JKFF/JKFF" -intstyle ise -dd _ngo -i -p xc9500 jff.ngc jff.ngd
+cpldfit -ise "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/JKFF/JKFF" -intstyle ise -p xc95*-*-* -ofmt vhdl -optimize speed -htmlrpt -loc on -slew fast -init low -inputs 36 -pterms 25 -power std -localfbk -pinfbk jff.ngd
+XSLTProcess -ise "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/JKFF/JKFF" jff_build.xml
+tsim -ise "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/JKFF/JKFF" -intstyle ise jff jff.nga
+taengine -ise "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/JKFF/JKFF" -intstyle ise -f jff -w --format html1 -l C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/JKFF/jff_html/tim/timing_report.htm
+hprep6 -ise "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/JKFF/JKFF" -s IEEE1149 -n jff -i jff

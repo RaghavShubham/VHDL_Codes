@@ -1,0 +1,2 @@
+xst -ise "C:/Users/Subham Jena 1/Desktop/deld vhdl/hsub/hsub/hsub" -intstyle ise -ifn hsub1.xst -ofn hsub1.syr
+xst -ise "C:/Users/Subham Jena 1/Desktop/deld vhdl/hsub/hsub/hsub" -intstyle ise -ifn hsub1.xst -ofn hsub1.syr

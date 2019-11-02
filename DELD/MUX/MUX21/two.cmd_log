@@ -1,0 +1,1 @@
+xst -ise "D:/DELD/MUX21/MUX21" -intstyle ise -ifn two.xst -ofn two.syr

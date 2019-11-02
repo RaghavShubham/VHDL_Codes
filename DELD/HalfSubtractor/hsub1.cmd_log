@@ -1,0 +1,1 @@
+xst -ise "D:/DELD/HalfSubtractor/HalfSubtractor" -intstyle ise -ifn hsub1.xst -ofn hsub1.syr

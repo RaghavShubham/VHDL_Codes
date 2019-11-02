@@ -1,0 +1,2 @@
+xst -ise "C:/Users/Subham Jena 1/Desktop/deld vhdl/2.  adder/beha/Fulladder/Fulladder" -intstyle ise -ifn fulladder.xst -ofn fulladder.syr
+xst -ise "C:/Users/Subham Jena 1/Desktop/deld vhdl/2.  adder/beha/Fulladder/Fulladder" -intstyle ise -ifn fulladder.xst -ofn fulladder.syr

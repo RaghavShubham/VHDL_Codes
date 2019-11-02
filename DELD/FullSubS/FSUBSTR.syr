@@ -1,0 +1,91 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.07 s | Elapsed : 0.00 / 0.00 s
+ 
+--> Parameter xsthdpdir set to ./xst
+CPU : 0.00 / 0.07 s | Elapsed : 0.00 / 0.00 s
+ 
+--> Reading design: FSUBSTR.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) HDL Analysis
+  4) HDL Synthesis
+     4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+     5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Final Report
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "FSUBSTR.prj"
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "FSUBSTR"
+Output Format                      : NGC
+Target Device                      : Automotive CoolRunner2
+
+---- Source Options
+Top Module Name                    : FSUBSTR
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Mux Extraction                     : YES
+Resource Sharing                   : YES
+
+---- Target Options
+Add IO Buffers                     : YES
+MACRO Preserve                     : YES
+XOR Preserve                       : YES
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : YES
+RTL Output                         : Yes
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : maintain
+
+---- Other Options
+lso                                : FSUBSTR.lso
+verilog2001                        : YES
+safe_implementation                : No
+wysiwyg                            : NO
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/DELD/FullSubS/FSCode.vhd" in Library work.
+Architecture behavioral of Entity or_1 is up to date.
+Architecture behavioral of Entity not_1 is up to date.
+Architecture behavioral of Entity xor_2 is up to date.
+Architecture behavioral of Entity and_1 is up to date.
+Architecture behavioral of Entity fsubstr is up to date.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <FSUBSTR> (Architecture <behavioral>).
+WARNING:Xst:752 - "D:/DELD/FullSubS/FSCode.vhd" line 118: Unconnected input port 'a' of component 'XOR_2' is tied to default value.
+WARNING:Xst:752 - "D:/DELD/FullSubS/FSCode.vhd" line 118: Unconnected input port 'b' of component 'XOR_2' is tied to default value.
+WARNING:Xst:753 - "D:/DELD/FullSubS/FSCode.vhd" line 118: Unconnected output port 'c' of component 'XOR_2'.
+ERROR:Xst:759 - "D:/DELD/FullSubS/FSCode.vhd" line 118: No default binding for component: <XOR_2>. Ports <K,D,E,F> are not on the entity.
+--> 
+
+Total memory usage is 142392 kilobytes
+
+Number of errors   :    1 (   0 filtered)
+Number of warnings :    3 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

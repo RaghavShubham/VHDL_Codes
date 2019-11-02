@@ -1,0 +1,173 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.06 s | Elapsed : 0.00 / 0.00 s
+ 
+--> Parameter xsthdpdir set to ./xst
+CPU : 0.00 / 0.06 s | Elapsed : 0.00 / 0.00 s
+ 
+--> Reading design: fulladder.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) HDL Analysis
+  4) HDL Synthesis
+     4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+     5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Final Report
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "fulladder.prj"
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "fulladder"
+Output Format                      : NGC
+Target Device                      : Automotive CoolRunner2
+
+---- Source Options
+Top Module Name                    : fulladder
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Mux Extraction                     : YES
+Resource Sharing                   : YES
+
+---- Target Options
+Add IO Buffers                     : YES
+MACRO Preserve                     : YES
+XOR Preserve                       : YES
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : YES
+RTL Output                         : Yes
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : maintain
+
+---- Other Options
+lso                                : fulladder.lso
+verilog2001                        : YES
+safe_implementation                : No
+wysiwyg                            : NO
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/DELD/FullAdderS/FACode.vhd" in Library work.
+Architecture behavioral of Entity half_adder is up to date.
+Architecture behavioral of Entity orgate is up to date.
+Architecture behavioral of Entity fulladder is up to date.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <fulladder> (Architecture <behavioral>).
+Entity <fulladder> analyzed. Unit <fulladder> generated.
+
+Analyzing Entity <half_adder> (Architecture <behavioral>).
+Entity <half_adder> analyzed. Unit <half_adder> generated.
+
+Analyzing Entity <orgate> (Architecture <behavioral>).
+Entity <orgate> analyzed. Unit <orgate> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <orgate>.
+    Related source file is "D:/DELD/FullAdderS/FACode.vhd".
+Unit <orgate> synthesized.
+
+
+Synthesizing Unit <half_adder>.
+    Related source file is "D:/DELD/FullAdderS/FACode.vhd".
+    Found 1-bit xor2 for signal <s1>.
+    Summary:
+	inferred   1 Xor(s).
+Unit <half_adder> synthesized.
+
+
+Synthesizing Unit <fulladder>.
+    Related source file is "D:/DELD/FullAdderS/FACode.vhd".
+Unit <fulladder> synthesized.
+
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# Xors                                                 : 2
+ 1-bit xor2                                            : 2
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+WARNING:Xst:1355 - Unit orgate is merged (low complexity)
+
+Optimizing unit <fulladder> ...
+
+Optimizing unit <half_adder> ...
+
+=========================================================================
+*                            Final Report                               *
+=========================================================================
+Final Results
+RTL Top Level Output File Name     : fulladder.ngr
+Top Level Output File Name         : fulladder
+Output Format                      : NGC
+Optimization Goal                  : Speed
+Keep Hierarchy                     : YES
+Target Technology                  : Automotive CoolRunner2
+Macro Preserve                     : YES
+XOR Preserve                       : YES
+wysiwyg                            : NO
+
+Design Statistics
+# IOs                              : 5
+
+Cell Usage :
+# BELS                             : 5
+#      AND2                        : 2
+#      OR2                         : 1
+#      XOR2                        : 2
+# IO Buffers                       : 5
+#      IBUF                        : 3
+#      OBUF                        : 2
+=========================================================================
+CPU : 1.47 / 1.53 s | Elapsed : 2.00 / 2.00 s
+ 
+--> 
+
+Total memory usage is 145912 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

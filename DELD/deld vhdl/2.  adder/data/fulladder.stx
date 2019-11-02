@@ -1,0 +1,24 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.06 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3215 - Unit work/fulladder is now defined in a different file: was C:/Users/Subham Jena 1/Desktop/deld vhdl/2.  adder/data/afas.vhd, now is D:/deld vhdl/2.  adder/data/afas.vhd
+WARNING:HDLParsers:3215 - Unit work/fulladder/Behavioral is now defined in a different file: was C:/Users/Subham Jena 1/Desktop/deld vhdl/2.  adder/data/afas.vhd, now is D:/deld vhdl/2.  adder/data/afas.vhd
+Compiling vhdl file "D:/deld vhdl/2.  adder/data/afas.vhd" in Library work.
+Entity <fulladder> compiled.
+Entity <fulladder> (Architecture <behavioral>) compiled.
+CPU : 1.71 / 1.77 s | Elapsed : 2.00 / 2.00 s
+ 
+--> 
+
+Total memory usage is 142456 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

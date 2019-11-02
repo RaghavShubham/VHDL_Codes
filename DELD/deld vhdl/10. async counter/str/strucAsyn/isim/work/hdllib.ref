@@ -1,0 +1,6 @@
+AR jff behavioral "D:/deld vhdl/10. async counter/str/strucAsyn/jff.vhd" sub00/vhpl05 1571210688
+EN wave NULL "D:/deld vhdl/10. async counter/str/strucAsyn/wave.vhw" sub00/vhpl02 1571211111
+AR wave testbench_arch "D:/deld vhdl/10. async counter/str/strucAsyn/wave.vhw" sub00/vhpl03 1571211112
+AR strucasyn behavioral "D:/deld vhdl/10. async counter/str/strucAsyn/strucAsyn.vhd" sub00/vhpl01 1571210918
+EN strucasyn NULL "D:/deld vhdl/10. async counter/str/strucAsyn/strucAsyn.vhd" sub00/vhpl00 1571210917
+EN jff NULL "D:/deld vhdl/10. async counter/str/strucAsyn/jff.vhd" sub00/vhpl04 1571210687

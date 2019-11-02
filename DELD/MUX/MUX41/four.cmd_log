@@ -1,0 +1,1 @@
+xst -ise "D:/DELD/MUX41/MUX41" -intstyle ise -ifn four.xst -ofn four.syr

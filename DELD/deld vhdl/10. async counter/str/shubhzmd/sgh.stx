@@ -1,0 +1,22 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.27 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Subham Jena 1/Desktop/deld vhdl/async counter/str/shubhzmd/sgh.vhd" in Library work.
+Entity <sgh> compiled.
+Entity <sgh> (Architecture <Behavioral>) compiled.
+CPU : 0.05 / 0.32 s | Elapsed : 0.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 142528 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

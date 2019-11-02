@@ -1,0 +1,3 @@
+MODULE mux8_1_
+SUBMODULE multiplexer8_1
+INSTANCE UUT

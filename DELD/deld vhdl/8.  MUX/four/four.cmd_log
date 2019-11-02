@@ -1,0 +1,1 @@
+xst -ise "D:/deld vhdl/8.  MUX/four/four" -intstyle ise -ifn four.xst -ofn four.syr

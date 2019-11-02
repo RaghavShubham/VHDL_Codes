@@ -1,0 +1,2 @@
+xst -ise "D:/DELD/FullAdderD/FullAdderD" -intstyle ise -ifn FACode.xst -ofn FACode.syr
+xst -ise "D:/DELD/FullAdderD/FullAdderD" -intstyle ise -ifn FACode.xst -ofn FACode.syr

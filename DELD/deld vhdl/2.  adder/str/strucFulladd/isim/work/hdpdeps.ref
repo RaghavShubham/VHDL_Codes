@@ -1,0 +1,34 @@
+V3 15
+FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/orgate.vhd" 2018/10/12.06:52:12 I.24
+EN work/orgate 1570540496 \
+      FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/orgate.vhd" \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537
+AR work/orgate/Behavioral 1570540497 \
+      FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/orgate.vhd" \
+      EN work/orgate 1570540496
+FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/wave.vhw" 2018/10/12.06:55:00 I.24
+EN work/wave 1570540500 \
+      FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/wave.vhw" \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537 PB ieee/STD_LOGIC_TEXTIO 1132105539 \
+      PB std/textio 1132105521
+AR work/wave/testbench_arch 1570540501 \
+      FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/wave.vhw" \
+      EN work/wave 1570540500 CP fulladder PB ieee/STD_LOGIC_TEXTIO 1132105539
+FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/fulladder.vhd" 2018/10/12.06:49:46 I.24
+EN work/fulladder 1570540498 \
+      FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/fulladder.vhd" \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537
+AR work/fulladder/Behavioral 1570540499 \
+      FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/fulladder.vhd" \
+      EN work/fulladder 1570540498 CP half_adder CP orgate
+FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/half_adder.vhd" 2018/10/12.06:50:50 I.24
+EN work/half_adder 1570540494 \
+      FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/half_adder.vhd" \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537
+AR work/half_adder/Behavioral 1570540495 \
+      FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/half_adder.vhd" \
+      EN work/half_adder 1570540494

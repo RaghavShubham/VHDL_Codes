@@ -1,0 +1,3 @@
+xst -ise "D:/DELD/SyncCounterS/SyncCounterS" -intstyle ise -ifn StucSyn.xst -ofn StucSyn.syr
+xst -ise "D:/DELD/SyncCounterS/SyncCounterS" -intstyle ise -ifn StucSyn.xst -ofn StucSyn.syr
+xst -ise "D:/DELD/SyncCounterS/SyncCounterS" -intstyle ise -ifn StucSyn.xst -ofn StucSyn.syr

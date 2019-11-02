@@ -1,0 +1,8 @@
+V3 3
+FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/data/FSUB/FSUB1.vhd" 2019/10/10.11:09:46 I.24
+EN work/FSUB1 1570686042           FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/data/FSUB/FSUB1.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/FSUB1/Behavioral 1570686043 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/data/FSUB/FSUB1.vhd" \
+      EN work/FSUB1 1570686042

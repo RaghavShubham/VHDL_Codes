@@ -1,0 +1,3 @@
+MODULE waveeeee
+SUBMODULE fulladder
+INSTANCE UUT

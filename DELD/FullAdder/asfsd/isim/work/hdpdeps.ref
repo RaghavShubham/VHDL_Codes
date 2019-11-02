@@ -1,0 +1,18 @@
+V3 7
+FL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/asfsd/gjfghjfgh.vhw 2019/10/30.01:07:09 I.24
+EN work/gjfghjfgh 1572377837 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/asfsd/gjfghjfgh.vhw \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537 PB ieee/STD_LOGIC_TEXTIO 1132105539 \
+      PB std/textio 1132105521
+AR work/gjfghjfgh/testbench_arch 1572377838 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/asfsd/gjfghjfgh.vhw \
+      EN work/gjfghjfgh 1572377837 CP sdfsdfs PB ieee/STD_LOGIC_TEXTIO 1132105539
+FL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/asfsd/sdfsdfs.vhd 2019/10/30.01:05:47 I.24
+EN work/sdfsdfs 1572377835 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/asfsd/sdfsdfs.vhd \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537
+AR work/sdfsdfs/Behavioral 1572377836 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/asfsd/sdfsdfs.vhd \
+      EN work/sdfsdfs 1572377835

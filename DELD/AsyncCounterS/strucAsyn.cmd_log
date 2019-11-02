@@ -1,0 +1,5 @@
+xst -ise "D:/DELD/AsyncCounterS/AsyncCounterS" -intstyle ise -ifn strucAsyn.xst -ofn strucAsyn.syr
+xst -ise "D:/DELD/AsyncCounterS/AsyncCounterS" -intstyle ise -ifn strucAsyn.xst -ofn strucAsyn.syr
+xst -ise "D:/DELD/AsyncCounterS/AsyncCounterS" -intstyle ise -ifn strucAsyn.xst -ofn strucAsyn.syr
+xst -ise "D:/DELD/AsyncCounterS/AsyncCounterS" -intstyle ise -ifn strucAsyn.xst -ofn strucAsyn.syr
+xst -ise "D:/DELD/AsyncCounterS/AsyncCounterS" -intstyle ise -ifn strucAsyn.xst -ofn strucAsyn.syr

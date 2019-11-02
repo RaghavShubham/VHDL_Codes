@@ -1,0 +1,17 @@
+EN and_1 NULL D:/DELD/FullSubS/FSCode.vhd sub00/vhpl06 1571214119
+AR fsub structural D:/DELD/FullSubS/FSCode.vhd sub00/vhpl16 1571214559
+EN or_1 NULL D:/DELD/FullSubS/FSCode.vhd sub00/vhpl00 1571214556
+AR or_1 behavioral D:/DELD/FullSubS/FSCode.vhd sub00/vhpl01 1571214114
+EN fsub NULL D:/DELD/FullSubS/FSCode.vhd sub00/vhpl15 1571214558
+AR h2 dataflow D:/DELD/FullSubS/FSCode.vhd sub00/vhpl13 1571214555
+EN fsubstr NULL D:/DELD/FullSubS/FSCode.vhd sub00/vhpl08 1571214121
+AR xor_2 behavioral D:/DELD/FullSubS/FSCode.vhd sub00/vhpl05 1571214118
+AR h1 dataflow D:/DELD/FullSubS/FSCode.vhd sub00/vhpl11 1571214553
+AR not_1 behavioral D:/DELD/FullSubS/FSCode.vhd sub00/vhpl03 1571214116
+EN not_1 NULL D:/DELD/FullSubS/FSCode.vhd sub00/vhpl02 1571214115
+AR and_1 behavioral D:/DELD/FullSubS/FSCode.vhd sub00/vhpl07 1571214120
+EN h1 NULL D:/DELD/FullSubS/FSCode.vhd sub00/vhpl10 1571214552
+EN h2 NULL D:/DELD/FullSubS/FSCode.vhd sub00/vhpl12 1571214554
+AR fsubstr behavioral D:/DELD/FullSubS/FSCode.vhd sub00/vhpl09 1571214122
+EN xor_2 NULL D:/DELD/FullSubS/FSCode.vhd sub00/vhpl04 1571214117
+AR or_1 dataflow D:/DELD/FullSubS/FSCode.vhd sub00/vhpl14 1571214557

@@ -1,0 +1,3 @@
+MODULE decodew
+SUBMODULE decode
+INSTANCE UUT

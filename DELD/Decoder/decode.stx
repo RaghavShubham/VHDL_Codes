@@ -1,0 +1,24 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.07 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3215 - Unit work/decode is now defined in a different file: was C:/Xilinx/decoder/decode.vhd, now is D:/DELD/decoder/decode.vhd
+WARNING:HDLParsers:3215 - Unit work/decode/Behavioral is now defined in a different file: was C:/Xilinx/decoder/decode.vhd, now is D:/DELD/decoder/decode.vhd
+Compiling vhdl file "D:/DELD/decoder/decode.vhd" in Library work.
+Entity <decode> compiled.
+Entity <decode> (Architecture <behavioral>) compiled.
+CPU : 0.03 / 0.10 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 142840 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,7 @@
+V3 3
+FL "D:/deld vhdl/2.  adder/data/afas.vhd" 2019/10/16.09:06:59 I.24
+EN work/fulladder 1571208811       FL "D:/deld vhdl/2.  adder/data/afas.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/fulladder/Behavioral 1571208812 FL "D:/deld vhdl/2.  adder/data/afas.vhd" \
+      EN work/fulladder 1571208811

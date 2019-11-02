@@ -1,0 +1,14 @@
+V3 7
+FL "D:/deld vhdl/10. async counter/str/strucAsyn/jff.vhd" 2018/10/12.04:29:04 I.24
+EN work/jff 1571210896             FL "D:/deld vhdl/10. async counter/str/strucAsyn/jff.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/jff/Behavioral 1571210897  FL "D:/deld vhdl/10. async counter/str/strucAsyn/jff.vhd" \
+      EN work/jff 1571210896
+FL "D:/deld vhdl/10. async counter/str/strucAsyn/strucAsyn.vhd" 2019/10/16.12:58:12 I.24
+EN work/strucAsyn 1571211047       FL "D:/deld vhdl/10. async counter/str/strucAsyn/strucAsyn.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/strucAsyn/Behavioral 1571211048 \
+      FL "D:/deld vhdl/10. async counter/str/strucAsyn/strucAsyn.vhd" \
+      EN work/strucAsyn 1571211047 CP jff

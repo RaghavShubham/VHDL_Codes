@@ -1,0 +1,12 @@
+V3 6
+FL "D:/deld vhdl/8.  MUX/Asynccounter/asccode.vhd" 2019/10/16.11:18:18 I.24
+EN work/JKFF 1571205887            FL "D:/deld vhdl/8.  MUX/Asynccounter/asccode.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/JKFF/Behavioral 1571205888 FL "D:/deld vhdl/8.  MUX/Asynccounter/asccode.vhd" \
+      EN work/JKFF 1571205887
+EN work/Async 1571205889           FL "D:/deld vhdl/8.  MUX/Asynccounter/asccode.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/Async/str 1571205890       FL "D:/deld vhdl/8.  MUX/Asynccounter/asccode.vhd" \
+      EN work/Async 1571205889 CP JKFF

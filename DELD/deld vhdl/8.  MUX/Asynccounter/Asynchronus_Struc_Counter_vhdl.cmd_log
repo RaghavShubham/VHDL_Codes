@@ -1,0 +1,1 @@
+xst -ise "D:/deld vhdl/8.  MUX/Asynccounter/Asynccounter" -intstyle ise -ifn Asynchronus_Struc_Counter_vhdl.xst -ofn Asynchronus_Struc_Counter_vhdl.syr

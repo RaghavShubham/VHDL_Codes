@@ -1,0 +1,4 @@
+EN decode NULL D:/DELD/decoder/decode.vhd sub00/vhpl00 1571217479
+EN decodew NULL D:/DELD/decoder/decodew.vhw sub00/vhpl02 1571217481
+AR decode behavioral D:/DELD/decoder/decode.vhd sub00/vhpl01 1571217480
+AR decodew testbench_arch D:/DELD/decoder/decodew.vhw sub00/vhpl03 1571217482

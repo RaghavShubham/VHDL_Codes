@@ -1,0 +1,8 @@
+V3 3
+FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/hsub/hsub/hsub1.vhd" 2019/10/10.10:44:08 I.24
+EN work/hsub1 1570684469           FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/hsub/hsub/hsub1.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/hsub1/Behavioral 1570684470 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/hsub/hsub/hsub1.vhd" \
+      EN work/hsub1 1570684469

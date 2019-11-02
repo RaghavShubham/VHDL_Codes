@@ -1,0 +1,24 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.09 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Subham Jena 1/Desktop/deld vhdl/eight/mux81/mux.vhd" in Library work.
+Entity <mux> compiled.
+ERROR:HDLParsers:3312 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/eight/mux81/mux.vhd" Line 41. Undefined symbol 'pa'.
+ERROR:HDLParsers:1209 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/eight/mux81/mux.vhd" Line 41. pa: Undefined symbol (last report in this block)
+ERROR:HDLParsers:164 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/eight/mux81/mux.vhd" Line 41. parse error, unexpected PROCESS, expecting OPENPAR or TICK or LSQBRACK
+CPU : 0.05 / 0.13 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 141868 kilobytes
+
+Number of errors   :    3 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

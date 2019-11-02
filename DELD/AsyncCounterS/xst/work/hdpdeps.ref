@@ -1,0 +1,16 @@
+V3 6
+FL D:/Downloads/DELD-20191022T082526Z-001/DELD/AsyncCounterS/ACCode.vhd 2019/10/22.14:59:01 I.24
+EN work/jff 1571876761 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/AsyncCounterS/ACCode.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/jff/Behavioral 1571876762 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/AsyncCounterS/ACCode.vhd \
+      EN work/jff 1571876761
+EN work/strucAsyn 1571876763 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/AsyncCounterS/ACCode.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/strucAsyn/Behavioral 1571876764 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/AsyncCounterS/ACCode.vhd \
+      EN work/strucAsyn 1571876763 CP jff

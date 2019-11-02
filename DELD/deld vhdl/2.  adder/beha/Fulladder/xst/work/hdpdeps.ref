@@ -1,0 +1,9 @@
+V3 3
+FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/2.  adder/beha/Fulladder/fulladder.vhd" 2019/10/16.08:56:01 I.24
+EN work/fulladder 1571196378 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/2.  adder/beha/Fulladder/fulladder.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/fulladder/Behavioral 1571196379 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/2.  adder/beha/Fulladder/fulladder.vhd" \
+      EN work/fulladder 1571196378

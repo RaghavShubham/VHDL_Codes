@@ -1,0 +1,16 @@
+V3 6
+FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/8.  MUX/mux8-1str/dsad.vhd" 2019/10/16.09:24:26 I.24
+EN work/MUX2TO1 1571198572 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/8.  MUX/mux8-1str/dsad.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/MUX2TO1/Behavioral 1571198573 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/8.  MUX/mux8-1str/dsad.vhd" \
+      EN work/MUX2TO1 1571198572
+EN work/m4to1 1571198574 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/8.  MUX/mux8-1str/dsad.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/m4to1/Behavioral 1571198575 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/8.  MUX/mux8-1str/dsad.vhd" \
+      EN work/m4to1 1571198574 CP mux2to1

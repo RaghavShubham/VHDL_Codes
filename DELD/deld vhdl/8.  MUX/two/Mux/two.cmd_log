@@ -1,0 +1,2 @@
+xst -ise "D:/deld vhdl/8.  MUX/two/Mux/Mux" -intstyle ise -ifn two.xst -ofn two.syr
+xst -ise "D:/deld vhdl/8.  MUX/two/Mux/Mux" -intstyle ise -ifn two.xst -ofn two.syr

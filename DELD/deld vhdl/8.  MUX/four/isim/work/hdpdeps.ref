@@ -1,0 +1,15 @@
+V3 7
+FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/four/wave.vhw" 2018/10/11.06:09:48 I.24
+EN work/wave 1570445671            FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/four/wave.vhw" \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537 PB ieee/STD_LOGIC_TEXTIO 1132105539 \
+      PB std/textio 1132105521
+AR work/wave/testbench_arch 1570445672 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/four/wave.vhw" EN work/wave 1570445671 \
+      CP four           PB ieee/STD_LOGIC_TEXTIO 1132105539
+FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/four/four.vhd" 2018/10/11.06:08:22 I.24
+EN work/four 1570445669            FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/four/four.vhd" \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537
+AR work/four/Behavioral 1570445670 FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/four/four.vhd" \
+      EN work/four 1570445669

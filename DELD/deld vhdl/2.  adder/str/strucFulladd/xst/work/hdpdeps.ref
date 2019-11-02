@@ -1,0 +1,25 @@
+V3 11
+FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/orgate.vhd" 2018/10/12.06:52:12 I.24
+EN work/orgate 1570540451 \
+      FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/orgate.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/orgate/Behavioral 1570540452 \
+      FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/orgate.vhd" \
+      EN work/orgate 1570540451
+FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/half_adder.vhd" 2018/10/12.06:50:50 I.24
+EN work/half_adder 1570540449 \
+      FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/half_adder.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/half_adder/Behavioral 1570540450 \
+      FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/half_adder.vhd" \
+      EN work/half_adder 1570540449
+FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/adder/str/strucFulladd/fulladder.vhd" 2018/10/12.06:49:46 I.24
+EN work/fulladder 1571114464 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/adder/str/strucFulladd/fulladder.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/fulladder/Behavioral 1571114465 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/adder/str/strucFulladd/fulladder.vhd" \
+      EN work/fulladder 1571114464 CP half_adder CP orgate

@@ -1,0 +1,32 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.08 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTRUC/ASDA.vhd" in Library work.
+ERROR:HDLParsers:164 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTRUC/ASDA.vhd" Line 36. parse error, unexpected IN, expecting IDENTIFIER or STRING_LITERAL
+ERROR:HDLParsers:3312 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTRUC/ASDA.vhd" Line 60. Undefined symbol 'S1'.
+ERROR:HDLParsers:1209 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTRUC/ASDA.vhd" Line 60. S1: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTRUC/ASDA.vhd" Line 60. Undefined symbol 'C1'.
+ERROR:HDLParsers:1209 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTRUC/ASDA.vhd" Line 60. C1: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3324 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTRUC/ASDA.vhd" Line 60. IN mode Formal Y of AND_1 with no default value must be associated with an actual value.
+ERROR:HDLParsers:3312 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTRUC/ASDA.vhd" Line 61. Undefined symbol 'C2'.
+ERROR:HDLParsers:1209 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTRUC/ASDA.vhd" Line 61. C2: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3313 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTRUC/ASDA.vhd" Line 62. Undefined symbol 'C3'.  Should it be: x3?
+ERROR:HDLParsers:1209 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTRUC/ASDA.vhd" Line 62. C3: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3324 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTRUC/ASDA.vhd" Line 62. IN mode Formal Y of AND_1 with no default value must be associated with an actual value.
+ERROR:HDLParsers:3324 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/str/FSUBSTRUC/ASDA.vhd" Line 63. IN mode Formal H of OR_1 with no default value must be associated with an actual value.
+CPU : 0.04 / 0.12 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 142208 kilobytes
+
+Number of errors   :   12 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

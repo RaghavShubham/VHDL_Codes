@@ -1,0 +1,2 @@
+xst -ise "C:/Xilinx/decoder/decoder" -intstyle ise -ifn decode.xst -ofn decode.syr
+xst -ise "D:/DELD/decoder/decoder" -intstyle ise -ifn decode.xst -ofn decode.syr

@@ -1,0 +1,16 @@
+V3 7
+FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/TFF/wave.vhw" 2018/10/11.05:08:22 I.24
+EN work/wave 1570542232            FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/TFF/wave.vhw" \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537 PB ieee/STD_LOGIC_TEXTIO 1132105539 \
+      PB std/textio 1132105521
+AR work/wave/testbench_arch 1570542233 \
+      FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/TFF/wave.vhw" \
+      EN work/wave 1570542232 CP TFF       PB ieee/STD_LOGIC_TEXTIO 1132105539
+FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/TFF/TFF.vhd" 2018/10/11.05:04:30 I.24
+EN work/TFF 1570542230             FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/TFF/TFF.vhd" \
+      PB ieee/std_logic_1164 1132105529 PB ieee/std_logic_arith 1132105531 \
+      PB ieee/STD_LOGIC_UNSIGNED 1132105537
+AR work/TFF/Behavioral 1570542231 \
+      FL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/TFF/TFF.vhd" \
+      EN work/TFF 1570542230

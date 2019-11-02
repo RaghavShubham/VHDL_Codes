@@ -1,0 +1,25 @@
+ command line:
+   ./waveeeeeeeee_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  50628
+
+Wed Oct 16 13:36:08 2019
+
+Total Line Count = 754
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 74.0106 Meg. 
+
+ Total signals 8
+ Total nets 4
+ Total signal drivers 4
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 4
+ntrace select -o on -m / -l this 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

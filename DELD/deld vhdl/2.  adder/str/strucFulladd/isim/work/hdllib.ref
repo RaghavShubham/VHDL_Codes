@@ -1,0 +1,8 @@
+AR fulladder behavioral "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/fulladder.vhd" sub00/vhpl05 1570540499
+EN wave NULL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/wave.vhw" sub00/vhpl06 1570540500
+EN orgate NULL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/orgate.vhd" sub00/vhpl02 1570540496
+EN half_adder NULL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/half_adder.vhd" sub00/vhpl00 1570540494
+AR wave testbench_arch "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/wave.vhw" sub00/vhpl07 1570540501
+EN fulladder NULL "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/fulladder.vhd" sub00/vhpl04 1570540498
+AR half_adder behavioral "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/half_adder.vhd" sub00/vhpl01 1570540495
+AR orgate behavioral "C:/Users/Subham Jena 1/Desktop/adarsh deld/VHDL/strucFulladd/orgate.vhd" sub00/vhpl03 1570540497

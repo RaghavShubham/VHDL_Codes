@@ -1,0 +1,9 @@
+AR fulladder behavioral D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/FullAdderS/FACode.vhd sub00/vhpl08 1571778578
+EN orgate NULL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/FullAdderS/FACode.vhd sub00/vhpl05 1571778575
+EN half_adder NULL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/FullAdderS/FACode.vhd sub00/vhpl03 1571778573
+EN fulladder NULL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/FullAdderS/FACode.vhd sub00/vhpl07 1571778577
+AR hacode behavioral D:/DELD/HADDER/HACode.vhd sub00/vhpl02 1571207971
+EN hacode NULL D:/DELD/HADDER/HACode.vhd sub00/vhpl01 1571207970
+AR half_adder behavioral D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/FullAdderS/FACode.vhd sub00/vhpl04 1571778574
+AR orgate behavioral D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/FullAdderS/FACode.vhd sub00/vhpl06 1571778576
+EN hadder NULL D:/DELD/HADDER/HACode.vhd sub00/vhpl00 1571207901

@@ -1,0 +1,5 @@
+V3 3
+FL D:/DELD/decoder/decode.vhd 2019/10/16.14:47:25 I.24
+EN work/decode 1571217485          FL D:/DELD/decoder/decode.vhd PB ieee/std_logic_1164 1131108373 \
+      PB ieee/std_logic_arith 1131108375 PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/decode/Behavioral 1571217486 FL D:/DELD/decoder/decode.vhd EN work/decode 1571217485

@@ -1,0 +1,23 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.10 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Subham Jena 1/Desktop/deld vhdl/2.  adder/beha/Fulladder/fulladder.vhd" in Library work.
+Entity <fulladder> compiled.
+WARNING:HDLParsers:1406 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/2.  adder/beha/Fulladder/fulladder.vhd" Line 42. No sensitivity list and no wait in the process
+Entity <fulladder> (Architecture <behavioral>) compiled.
+CPU : 0.17 / 0.27 s | Elapsed : 1.00 / 1.00 s
+ 
+--> 
+
+Total memory usage is 142016 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

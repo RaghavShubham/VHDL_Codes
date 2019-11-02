@@ -1,0 +1,30 @@
+ command line:
+   ./fghfghfghfyuyu_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  53095
+
+Wed Oct 30 03:04:30 2019
+
+Total Line Count = 746
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 74.0762 Meg. 
+
+ Total signals 9
+ Total nets 11
+ Total signal drivers 4
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 4
+ntrace select -o on -n /fghfghfghfyuyu/clk 
+ntrace select -o on -n /fghfghfghfyuyu/reset 
+ntrace select -o on -n /fghfghfghfyuyu/up_down 
+ntrace select -o on -n /fghfghfghfyuyu/counter 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+WARNING:Simulator:29 - at 100.000 ns(1): Warning: There is an
+   'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).

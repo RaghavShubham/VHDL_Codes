@@ -1,0 +1,1 @@
+xst -ise "D:/DELD/FullSubS/FullSubS" -intstyle ise -ifn FSUB.xst -ofn FSUB.syr

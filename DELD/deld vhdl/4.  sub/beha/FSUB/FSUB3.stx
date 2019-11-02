@@ -1,0 +1,23 @@
+Release 8.1i - xst I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.08 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/beha/FSUB/FSUB3.vhd" in Library work.
+Entity <fsub3> compiled.
+ERROR:HDLParsers:164 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/beha/FSUB/FSUB3.vhd" Line 51. parse error, unexpected LT, expecting OPENPAR or TICK or LSQBRACK
+ERROR:HDLParsers:164 - "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/beha/FSUB/FSUB3.vhd" Line 54. parse error, unexpected TICK
+CPU : 0.03 / 0.11 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 141888 kilobytes
+
+Number of errors   :    2 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

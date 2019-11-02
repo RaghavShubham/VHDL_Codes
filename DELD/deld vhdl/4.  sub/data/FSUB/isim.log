@@ -1,0 +1,25 @@
+ command line:
+   ./FSUB12_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  3037
+
+Thu Oct 10 11:12:30 2019
+
+Total Line Count = 768
+
+ Elaboration time 0 sec.
+
+ Estimate current memory usage 73.9369 Meg. 
+
+ Total signals 10
+ Total nets 5
+ Total signal drivers 5
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 4
+ntrace select -o on -m / -l this 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

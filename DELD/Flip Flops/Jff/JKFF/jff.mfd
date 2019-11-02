@@ -1,0 +1,18 @@
+MDF Database:  version 1.0
+MDF_INFO | jff | XC9536-5-PC44
+MACROCELL | 0 | 1 | t
+ATTRIBUTES | 8819462 | 0
+INPUTS | 3 | j  | k  | q.PIN
+INPUTP | 3 | 9 | 11 | 3
+EQ | 4 | 
+   q.D = j & !q.PIN
+	# !k & q.PIN;
+   q.CLK = clk;	// GCK
+   q.AP = rst;	// GSR
+GLOBALS | 2 | 2 | clk | 1 | rst
+
+PIN | rst | 65536 | 0 | N/A | 39 | 1 | 0 | 1
+PIN | clk | 4096 | 0 | N/A | 5 | 1 | 0 | 1
+PIN | j | 64 | 0 | N/A | 9 | 1 | 0 | 1
+PIN | k | 64 | 0 | N/A | 11 | 1 | 0 | 1
+PIN | q | 536870976 | 0 | N/A | 3 | 1 | 0 | 1

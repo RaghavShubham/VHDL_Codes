@@ -1,0 +1,1 @@
+xst -ise "C:/Users/DELL/Desktop/Akash/stucSyn/stucSyn" -intstyle ise -ifn StucSyn.xst -ofn StucSyn.syr

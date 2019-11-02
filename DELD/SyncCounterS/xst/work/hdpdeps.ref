@@ -1,0 +1,11 @@
+V3 6
+FL D:/DELD/SyncCounterS/SyncCounterCode.vhd 2019/10/16.13:15:47 I.24
+EN work/jff 1571288695             FL D:/DELD/SyncCounterS/SyncCounterCode.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/jff/Behavioral 1571288696  FL D:/DELD/SyncCounterS/SyncCounterCode.vhd EN work/jff 1571288695
+EN work/StucSyn 1571288697         FL D:/DELD/SyncCounterS/SyncCounterCode.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/StucSyn/Behavioral 1571288698 FL D:/DELD/SyncCounterS/SyncCounterCode.vhd \
+      EN work/StucSyn 1571288697 CP jff

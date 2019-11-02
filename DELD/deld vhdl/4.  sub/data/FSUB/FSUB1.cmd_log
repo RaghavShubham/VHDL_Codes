@@ -1,0 +1,1 @@
+xst -ise "C:/Users/Subham Jena 1/Desktop/deld vhdl/sub/data/FSUB/FSUB" -intstyle ise -ifn FSUB1.xst -ofn FSUB1.syr

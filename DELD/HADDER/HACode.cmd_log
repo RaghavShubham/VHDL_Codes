@@ -1,0 +1,2 @@
+xst -ise "D:/DELD/HADDER/HADDER" -intstyle ise -ifn HACode.xst -ofn HACode.syr
+xst -ise "D:/Downloads/DELD-20191022T082526Z-001/DELD/HADDER/HADDER" -intstyle ise -ifn HACode.xst -ofn HACode.syr

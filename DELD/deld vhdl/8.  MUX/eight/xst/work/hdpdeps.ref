@@ -1,0 +1,7 @@
+V3 3
+FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/eight/eight.vhd" 2018/10/11.06:16:00 I.24
+EN work/eight 1570445618           FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/eight/eight.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/eight/Behavioral 1570445619 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/eight/eight.vhd" EN work/eight 1570445618

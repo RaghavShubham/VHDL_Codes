@@ -1,0 +1,3 @@
+MODULE asdsd
+SUBMODULE fulladder
+INSTANCE UUT

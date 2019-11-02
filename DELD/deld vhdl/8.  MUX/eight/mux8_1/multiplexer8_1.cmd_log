@@ -1,0 +1,3 @@
+xst -ise "C:/Users/Subham Jena 1/Desktop/deld vhdl/eight/mux8_1/mux8_1" -intstyle ise -ifn multiplexer8_1.xst -ofn multiplexer8_1.syr
+xst -ise "C:/Users/Subham Jena 1/Desktop/deld vhdl/eight/mux8_1/mux8_1" -intstyle ise -ifn multiplexer8_1.xst -ofn multiplexer8_1.syr
+xst -ise "C:/Users/Subham Jena 1/Desktop/deld vhdl/eight/mux8_1/mux8_1" -intstyle ise -ifn multiplexer8_1.xst -ofn multiplexer8_1.syr

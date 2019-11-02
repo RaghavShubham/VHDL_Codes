@@ -1,0 +1,8 @@
+V3 3
+FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/5.  D ff/Dff/Dff.vhd" 2019/10/14.13:50:38 I.24
+EN work/Dff 1571201367             FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/5.  D ff/Dff/Dff.vhd" \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/Dff/Behavioral 1571201368 \
+      FL "C:/Users/Subham Jena 1/Desktop/deld vhdl/5.  D ff/Dff/Dff.vhd" \
+      EN work/Dff 1571201367

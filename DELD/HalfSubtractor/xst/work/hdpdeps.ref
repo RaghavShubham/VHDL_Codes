@@ -1,0 +1,6 @@
+V3 3
+FL D:/DELD/HalfSubtractor/HSCode.vhd 2019/10/16.13:35:30 I.24
+EN work/hsub1 1571213151           FL D:/DELD/HalfSubtractor/HSCode.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/hsub1/Behavioral 1571213152 FL D:/DELD/HalfSubtractor/HSCode.vhd EN work/hsub1 1571213151

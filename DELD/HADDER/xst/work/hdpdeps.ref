@@ -1,0 +1,35 @@
+V3 16
+FL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/FullAdderS/FACode.vhd 2019/10/17.04:44:34 I.24
+EN work/half_adder 1571778573 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/FullAdderS/FACode.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/half_adder/Behavioral 1571778574 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/FullAdderS/FACode.vhd \
+      EN work/half_adder 1571778573
+EN work/orgate 1571778575 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/FullAdderS/FACode.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/orgate/Behavioral 1571778576 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/FullAdderS/FACode.vhd \
+      EN work/orgate 1571778575
+EN work/fulladder 1571778577 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/FullAdderS/FACode.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/fulladder/Behavioral 1571778578 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/FullAdder/FullAdderS/FACode.vhd \
+      EN work/fulladder 1571778577 CP half_adder CP orgate
+EN work/andgate 0         FL D:/Downloads/DELD-20191022T082526Z-001/DELD/HADDER/HACode.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/notgate/Behavioral 0 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/HADDER/HACode.vhd \
+      EN work/notgate 0
+EN work/HACode 1571207970          FL D:/Downloads/DELD-20191022T082526Z-001/DELD/HADDER/HACode.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/HACode/Behavioral 1571207971 \
+      FL D:/Downloads/DELD-20191022T082526Z-001/DELD/HADDER/HACode.vhd \
+      EN work/HACode 1571207970 CP andgate CP orgate

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/wave1</arg> is now defined in a different file: was <arg fmt="%s" index="2">C:/Users/DELL/Desktop/Akash/stucSyn/wave1.vhw</arg>, now is <arg fmt="%s" index="3">G:/adarsh deld/VHDL/stucSyn/wave1.vhw</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/wave1/testbench_arch</arg> is now defined in a different file: was <arg fmt="%s" index="2">C:/Users/DELL/Desktop/Akash/stucSyn/wave1.vhw</arg>, now is <arg fmt="%s" index="3">G:/adarsh deld/VHDL/stucSyn/wave1.vhw</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/StucSyn</arg> is now defined in a different file: was <arg fmt="%s" index="2">C:/Users/DELL/Desktop/Akash/stucSyn/StucSyn.vhd</arg>, now is <arg fmt="%s" index="3">G:/adarsh deld/VHDL/stucSyn/StucSyn.vhd</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/StucSyn/Behavioral</arg> is now defined in a different file: was <arg fmt="%s" index="2">C:/Users/DELL/Desktop/Akash/stucSyn/StucSyn.vhd</arg>, now is <arg fmt="%s" index="3">G:/adarsh deld/VHDL/stucSyn/StucSyn.vhd</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/jff</arg> is now defined in a different file: was <arg fmt="%s" index="2">C:/Users/DELL/Desktop/Akash/stucSyn/jff.vhd</arg>, now is <arg fmt="%s" index="3">G:/adarsh deld/VHDL/stucSyn/jff.vhd</arg>
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3215" delta="unknown" >Unit <arg fmt="%s" index="1">work/jff/Behavioral</arg> is now defined in a different file: was <arg fmt="%s" index="2">C:/Users/DELL/Desktop/Akash/stucSyn/jff.vhd</arg>, now is <arg fmt="%s" index="3">G:/adarsh deld/VHDL/stucSyn/jff.vhd</arg>
+</msg>
+
+</messages>
